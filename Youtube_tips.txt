@@ -34,5 +34,13 @@ to Configure Name and Email:
 9. To clear CMD:
     - cls
 
+10. To go back to a previous state of project code that was committed:
+    - git checkout <commit-hash>
+    - just add the hash after checkout
+    - will be dropped back to that previous state all the newer changes will not be displayed.
 
+
+11. To go back to latest commit:
+    - git chekcout master
+    - will be brought back to current state
     
