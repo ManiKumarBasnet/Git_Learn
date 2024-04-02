@@ -51,7 +51,7 @@ to Configure Name and Email:
     - new branch meaning, same progress and same update until the current one, just in another timeline
     
 13. To merge the changes from a different branch into current branch:
-    - git merge <branch-name>
+    - git merge <branch-name> -m "Commit Message"
 
 14. To delete a branch:
     - git branch -d <branch-name>
