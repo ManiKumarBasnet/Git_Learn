@@ -1,0 +1,37 @@
+to Configure Name and Email:
+    - git config --global user.name "Your Name"
+    - git config --global user.email "your@email.com"
+
+1. To initialize empty Git Repositories:
+    - git init
+
+2. Checking the status (if any branches/commits):
+    - git status
+    - untracked filed will be in RED in CMD
+
+3. To add files to the staging area, to be tracked:
+    - git add file name
+    - the file will be turned into GREEN
+    
+4. To commit:
+    - git commit -m "Commit Message"
+    - To save
+
+5. Check through Git Status if committed or not.
+
+6. To check the history of commits:
+    - git log
+
+7. To create new file through CMD:
+    - echo. > filename.extension
+    - example: echo. > example.txt
+
+8. To delete the created file:
+    - del filename.extension
+    - example: del example.txt
+
+9. To clear CMD:
+    - cls
+
+
+    
