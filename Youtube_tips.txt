@@ -47,5 +47,5 @@ to Configure Name and Email:
 12. To create a new branch:
     - git branch <new-branch-name>
     - if no new name is stated, the git branch will be master by default.
-    
+    - new branch meaning, same progress and same update until the current one, just in another timeline
     
