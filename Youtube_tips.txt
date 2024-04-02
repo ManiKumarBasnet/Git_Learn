@@ -43,4 +43,9 @@ to Configure Name and Email:
 11. To go back to latest commit:
     - git chekcout master
     - will be brought back to current state
+
+12. To create a new branch:
+    - git branch <new-branch-name>
+    - if no new name is stated, the git branch will be master by default.
+    
     
