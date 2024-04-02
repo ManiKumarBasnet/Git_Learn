@@ -22,6 +22,7 @@ to Configure Name and Email:
 
 6. To check the history of commits:
     - git log
+    - git log --all --graph
 
 7. To create new file through CMD:
     - echo. > filename.extension
@@ -54,3 +55,6 @@ to Configure Name and Email:
 
 14. To delete a branch:
     - git branch -d <branch-name>
+
+15. To switch to new branch:
+    - git checkout newBranchName
