@@ -11,6 +11,7 @@ to Configure Name and Email:
 
 3. To add files to the staging area, to be tracked:
     - git add file name
+    - else git add . (to add all the modfied files)
     - the file will be turned into GREEN
     
 4. To commit:
