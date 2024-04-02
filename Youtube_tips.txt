@@ -48,8 +48,13 @@ to Configure Name and Email:
     - git branch <new-branch-name>
     - if no new name is stated, the git branch will be master by default.
     - new branch meaning, same progress and same update until the current one, just in another timeline
+<<<<<<< HEAD
 
 13. To merge the changes from a different branch into the current branch:
+=======
+    
+13. To merge the changes from a different branch into current branch:
+>>>>>>> master
     - git merge <branch-name>
 
 14. To delete a branch:
